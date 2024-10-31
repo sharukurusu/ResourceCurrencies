@@ -73,7 +73,7 @@ Since relative demand would need to be calculated, it would also be made transpa
 
 ## TL;DR Table
 
-| | Energy | Space Impact | Element Usage | Time | Money |
+| Currency type: | Energy | Space Impact | Element Usage | Time | Money |
 | ----- | ----- | ----- | ----- | ----- |  ----- |
 | Measured in | Fossil-Fuel energy equivalent units | Area | Weight | Hours | Conventional Currency |
 | Distributed | Equally | Equally | Equally | Based on Relative Demand for Skill | ❌By how much others will pay |
